@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Pensão Alimentícia",
+  "description": "Cálculo e memória de cálculo para Folha, Férias, 13º, Rescisão e PLR",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
